@@ -1,9 +1,9 @@
 
 def welcome():
-    print("NewScreen ")
+    print("NewScreen")
 
 def click():
-    print("click")
+    print("click ")
 
 
 if __name__ == '__main__':
